@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Welcome!
 permalink: /
 subtitle: Assistant Professor of Statistics, Western Michigan University
 
