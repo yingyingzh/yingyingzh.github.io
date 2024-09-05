@@ -19,8 +19,12 @@ social: true # includes social icons at the bottom of the profile
 ---
 
 I am currently an Assistant Professor of Statistics at Western Michigan University. I am interested in 
-developing novel machine learning models to analyze data with complicated structures, with an emphasis 
-on the area of clustering and classification. In particular, I have developed models for high-dimensional 
+developing novel machine learning models to analyze data with complicated structures, especially in the area of clustering and classification.
+In particular, I have been developing models for high-dimensional 
 categorical and directional data. The applications of my research include text mining, pattern discovery, 
 image processing, and business process modeling.
+
+I am actively looking for motivated students and potential collaborators. The topics lie broadly in the span of statistics and machine learning. 
+Please feel free to contact me if you have an interest!
+
 
