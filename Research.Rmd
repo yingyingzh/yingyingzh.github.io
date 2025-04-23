@@ -1,7 +1,7 @@
 ---
 title: "Research"
 output:
-  html_document:
+  distill::distill_article:
     css: styles.css
     self_contained: true
 ---
