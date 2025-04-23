@@ -1,6 +1,9 @@
 ---
 title: "Home"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    self_contained: true
+    css: styles.css
 ---
 
 <img src="profile1.jpg" style="float: left; width: 400px; margin-right: 10px; border-radius: 8px;">

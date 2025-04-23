@@ -1,9 +1,9 @@
 ---
 title: "Teaching"
 output:
-  distill::distill_article:
+  distill::distill_article:           
+    self_contained: true               
     css: styles.css
-    self_contained: true
 ---
 
 ```{r setup, include=FALSE}
