@@ -1,6 +1,6 @@
 name: "myAcademicSite"
 title: "Yingying Zhang"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "Yingying Zhang"
   left:
