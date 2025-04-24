@@ -20,8 +20,7 @@ yingying.zhang@wmich.edu
 
 I am currently an Assistant Professor in the Department of Statistics at Western Michigan University.
 
-My research interests lie in machine learning and predictive modeling, with a special focus on finite mixture modeling and 
-model-based clustering. I have addressed problems in modeling and clustering data with complicated structures, like high-dimension categorical sequences, matrix data, and directional data. Applications of the developed methodology include text mining and natural language processing, pattern and signal recognition, social science and education analysis, etc.
+My research interests lie in machine learning and predictive modeling, with a special focus on finite mixture modeling and model-based clustering. I have addressed problems in modeling and clustering data with complicated structures, like high-dimension categorical sequences, matrix data, and directional data. Applications of the developed methodology include text mining and natural language processing, pattern and signal recognition, social science and education analysis, etc.
 
 Previously, I completed my Ph.D. in Applied Statistics from the Department of Information Systems, Statistics, and Management Sciences, University of Alabama. I was fortunate to be advised by Dr. Volodymyr Melnykov.
 
