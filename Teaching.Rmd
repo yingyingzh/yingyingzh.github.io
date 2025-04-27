@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## University of Alabama
 
-- ST 260: Introduction to business statistics (Undergraduate)
+- ST 260: Statistical Data Analysis (Undergraduate)
 
 
 
