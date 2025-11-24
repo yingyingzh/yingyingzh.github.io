@@ -19,6 +19,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Publications
 
+- **Zhang,Y.,**, Melnykov,V., Chen,Y. (2025)  
+  [Modeling and clustering of heterogeneous multivariate categorical sequences](https://www.sciencedirect.com/science/article/pii/S003132032500809X).   
+  _Pattern Recognition_ 
+
+- **Zhang,Y.,**, Melnykov,V., Zhu,X. (2025)  
+  [Study on the overlap in matrix-variate data with applications in discriminant analysis](https://link.springer.com/article/10.1007/s13171-025-00406-9).   
+  _Sankhya A_ 
+  
+  
 - **Zhang,Y.,**, Sarkar,S., Chen,Y., Zhu,X. (2024)  
   [On regime changes in text data using hidden Markov model of contaminated vMF distribution](https://link.springer.com/article/10.1007/s10618-024-01051-w).   
   _Data Mining and Knowledge Discovery_ 
@@ -40,21 +49,13 @@ knitr::opts_chunk$set(echo = TRUE)
   _Applied Mathematics and Computation_
 
 ## Under Review/Revision
-- **Zhang,Y.,**, Melnykov,V.,   
-  Finite mixture modeling and model-based clustering for multivariate categorical sequences.  
-  2nd round review at *Pattern Recognition*
-
-- **Zhang,Y.,**, Melnykov,V., Zhu,X.,  
-  Discriminant Analysis for Matrix Data.  
-  Under revision at *Sankhya A*
-
-- **Zhang,Y.,**, Zhu,X., Tong,H., Melnykov, V.,    
-  Model-based clustering of music sequences.    
-  Under review at *Pattern Recognition*
+- **Zhang,Y.,**,Zhu,X.,Tong,H., Melnykov,V.,   
+  Model-based clustering of music sequences.  
+  under review at *Pattern Recognition*
 
 - **Zhang,Y.,**, Zhu,X.,  
-  Study on the overlap of finite mixture modeling of categorical sequences.   
-  Under review at *INFORMS Journal on Computing*
+  Study on the overlap of finite mixture modeling of categorical sequences.  
+  Under review at *Advances in Data Analysis and Classification*
 
 ## In-progress
 - Melnykov,Y., **Zhang,Y.,**, Zheng, R.,  
@@ -63,7 +64,15 @@ knitr::opts_chunk$set(echo = TRUE)
 - Chen, Y., **Zhang, Y.,**, Zhu, X., Tian, A.,  
   The effect of AI actions between leading and following corporations.   
 
-- Sarkar,S., **Zhang, Y.,** Zhu, X.,  
+- Joint work with Sarkar,S., Zhu,X.  
   On model-based clustering of multivariate categorical sequences with missing values. 
   
-
+- Joint work with Su,H.  
+  Analysis of Reddit depression community support through text-based methods.
+  
+  - Joint work with Shields,B.  
+  On model-based clustering of dynamic multivariate categorical sequences. 
+  
+  - **Zhang, Y.,**
+  Study on the overlap of high-dimensional finite mixture modeling of Gaussian distributions.
+  
