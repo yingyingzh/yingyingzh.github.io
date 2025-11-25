@@ -70,9 +70,9 @@ knitr::opts_chunk$set(echo = TRUE)
 - Joint work with Su,H.  
   Analysis of Reddit depression community support through text-based methods.
   
-  - Joint work with Shields,B.  
+- Joint work with Shields,B.  
   On model-based clustering of dynamic multivariate categorical sequences. 
   
-  - **Zhang, Y.,**
+- **Zhang, Y.,**
   Study on the overlap of high-dimensional finite mixture modeling of Gaussian distributions.
   
