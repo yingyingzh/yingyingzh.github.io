@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Under Review/Revision
 - **Zhang,Y.,**,Zhu,X.,Tong,H., Melnykov,V.,   
   Model-based clustering of music sequences.  
-  under revision at *Pattern Recognition*
+  under second round review at *Pattern Recognition*
 
 - **Zhang,Y.,**, Zhu,X.,  
   Study on the overlap of finite mixture modeling of categorical sequences.  
