@@ -12,20 +12,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Western Michigan University
 
-- STAT 2630: Introduction to mathematical statistics using R (Undergraduate)
-- STAT 4640: Introduction to statistical computing (Undergraduate)
+- STAT 2630: Introduction to mathematical statistics using R (undergraduate)
+- STAT 4640: Introduction to statistical computing (undergraduate)
 - STAT 5820: Time series analysis (graduate)
 - STAT 6600: Statistical theory II (graduate)
 - STAT 6800: SAS programming (graduate)
 
 ## University of South Alabama
 
-- ST 210: Statistical reasoning and applications (Undergraduate)
-- ST 315: Applied probability and statistics (Undergraduate)
+- ST 210: Statistical reasoning and applications (undergraduate)
+- ST 315: Applied probability and statistics (undergraduate)
 
 ## University of Alabama
 
-- ST 260: Statistical Data Analysis (Undergraduate)
+- ST 260: Statistical Data Analysis (undergraduate)
 
 
 
