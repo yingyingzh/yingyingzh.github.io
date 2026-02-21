@@ -17,7 +17,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - model-based clustering
 - data visualization
 
-## Publications
+## Publication/Acceptance
+
+- **Zhang,Y.,**,Zhu,X.,Tong,H., Melnykov,V.(2026)   
+  Model-based clustering of music pieces.  
+  _Pattern Recognition_
 
 - **Zhang,Y.,**, Melnykov,V. (2025)  
   [Modeling and clustering of heterogeneous multivariate categorical sequences](https://www.sciencedirect.com/science/article/pii/S003132032500809X).   
@@ -49,9 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
   _Applied Mathematics and Computation_
 
 ## Under Review/Revision
-- **Zhang,Y.,**,Zhu,X.,Tong,H., Melnykov,V.,   
-  Model-based clustering of music sequences.  
-  under second round review at *Pattern Recognition*
+
 
 - **Zhang,Y.,**, Zhu,X.,  
   Study on the overlap of finite mixture modeling of categorical sequences.  
